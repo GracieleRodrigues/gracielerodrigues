@@ -11,9 +11,3 @@
 </div>
 
 ##
-
-<div> 
- 
-  ![Snake animation](https://github.com/GracieleRodrigues/github-contribution-grid-snake.svg)
- 
-</div>
